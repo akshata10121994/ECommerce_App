@@ -1,0 +1,3 @@
+To limit the records in MongoDB, you need to use limit() method. 
+The method accepts one number type argument, 
+which is the number of documents that you want to be displayed.
